@@ -1,0 +1,8 @@
+html
+  head
+    title Welcome to Steves place
+    link(rel="stylesheet", href="index.css")
+  body
+    :markdown
+      > ## Hola mon Frère
+      > This is written in vibe.d and stuff : )
